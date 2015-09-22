@@ -2,4 +2,10 @@
 
 Check out some cool articles!
 
+<ul>
+  {{#each model as |article|}}
+    {{article-tile article=article}}
+  {{/each}}
+</ul>
+
 {{#link-to 'about'}}About{{/link-to}}
