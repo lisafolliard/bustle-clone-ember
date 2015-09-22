@@ -1,8 +1,25 @@
 img {
-  width: 300px;
-  height: 300px;
+  width: 100%;
 }
 
 li {
   list-style-type: none;
+}
+
+body {
+  font-family: 'Noticia Text', serif;
+}
+
+ul {
+  font-size: 15px;
+}
+
+.headline {
+  font-size: 30px;
+}
+
+.item img {
+  width: auto;
+  height: 400px;
+  min-height: 400px;
 }
