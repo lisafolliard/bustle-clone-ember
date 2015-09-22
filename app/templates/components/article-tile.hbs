@@ -1,1 +1,3 @@
-<li>{{article.category}} <img src={{article.image}}> {{article.headline}}</li>
+<li>
+  {{article.category}} {{article.headline}}{{#link-to 'article' article.id}}<img src={{article.image}}>{{/link-to}}
+</li>
