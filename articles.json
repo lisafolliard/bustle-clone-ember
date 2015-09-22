@@ -1,18 +1,27 @@
 { "articles": [{
   "category": "News",
   "image": "http://www.msatjc.org/wp-content/uploads/2015/01/news.jpg",
-  "headline": "Here is some exciting news!"
+  "headline": "Here is some exciting news!",
+  "story": "It's hard to overstate the significance of the crisis in Germany, where making quality cars is central to the country's reputation as a manufacturing and export powerhouse. The auto industry accounts for about 20% of exports, and employs 775,000 people directly."
 }, {
   "category": "Entertainment",
   "image": "http://17rg073sukbm1lmjk9jrehb643.wpengine.netdna-cdn.com/wp-content/uploads/2014/08/er2.png",
-  "headline": "Empire Records had Some Serious 90s Style!"
+  "headline": "Empire Records had Some Serious 90s Style!",
+  "story": "Now it looks like it's becoming a very global issue. It really will be bad for the reputation of the company for a couple of years, it will take time to rebuild the trust of the customers, said Klaus Breitenbach, automotive analyst at Baader Bank. It's really worrying for the company and also for the whole industry."
 }, {
   "category": "Comics",
   "image": "http://www2.cincinnati.com/comics/comics_412x248.gif",
-  "headline": "Check out the funnies!"
+  "headline": "Check out the funnies! Check out the funnies!",
+  "story": "As a spiritual leader with a political bent, you have picked an incredibly, um, interesting time to make your maiden voyage to the United States."
 }, {
   "category": "Politics",
   "image": "http://3.bp.blogspot.com/-g8cC21v87EM/VEHaQdsEE4I/AAAAAAAACJY/mSbxsrY7N08/s1600/klain.jpg",
-  "headline": "Some Politics"
+  "headline": "Some Politics Some Politics Some Politics",
+  "story": "We have a tradition in this country of avoiding discussion of religion and politics at the dinner table, and you'll likely soon see why."
+  }, {
+    "category": "Sports",
+    "image": "https://my3senths.files.wordpress.com/2014/08/madden-25-nfl-week-11-predictions.jpg",
+    "headline": "The biggest football game the Super Bowl Super Bowl",
+    "story": "We have a tradition in this country of avoiding discussion of religion and politics at the dinner table, and you'll likely soon see why."
 }]
 }

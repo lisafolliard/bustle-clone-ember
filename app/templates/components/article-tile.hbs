@@ -1,3 +1,12 @@
-<li>
-  {{article.category}} {{article.headline}}{{#link-to 'article' article.id}}<img src={{article.image}}>{{/link-to}}
-</li>
+<div class="col-md-6">
+  <li>
+    {{article.category}} {{article.headline}}
+
+    {{#link-to 'article' article.id}}
+
+
+      <img src={{article.image}}>
+
+    {{/link-to}}
+  </li>
+</div>
