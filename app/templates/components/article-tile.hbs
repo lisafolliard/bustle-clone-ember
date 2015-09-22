@@ -6,5 +6,6 @@
       <img src={{article.image}}>
     {{/link-to}}
     <button {{action 'delete' article}}>Delete</button>
+    {{update-article article=article update="update"}}
   </li>
 </div>

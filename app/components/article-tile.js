@@ -6,6 +6,9 @@ export default Ember.Component.extend({
       if(confirm('You sure you want to delete?')) {
         this.sendAction('destroyArticle', article);
       }
+    },
+    update(article, params) {
+      this.sendAction('update', article, params);
     }
   }
 });
