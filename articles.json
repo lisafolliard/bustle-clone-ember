@@ -1,0 +1,10 @@
+{ "articles": [{
+  "category": "News",
+  "image": "http://www.msatjc.org/wp-content/uploads/2015/01/news.jpg",
+  "headline": "Here is some exciting news!"
+}, {
+  "category": "Entertainment",
+  "image": "http://17rg073sukbm1lmjk9jrehb643.wpengine.netdna-cdn.com/wp-content/uploads/2014/08/er2.png",
+  "headline": "Empire Records had Some Serious 90s Style!"
+}]
+}
