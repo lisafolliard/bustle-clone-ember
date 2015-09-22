@@ -3,10 +3,8 @@
     {{article.category}} {{article.headline}}
 
     {{#link-to 'article' article.id}}
-
-
       <img src={{article.image}}>
-
     {{/link-to}}
+    <button {{action 'delete' article}}>Delete</button>
   </li>
 </div>
